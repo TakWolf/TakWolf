@@ -1,5 +1,5 @@
 # Hi :sunglasses:
 
-I'm a Java, Android, Web and Rust developer.
+I'm a Java, Android and Web developer. I'm trying Rust and Python.
 
-I use [Godot](https://godotengine.org) and [myself engine](https://github.com/TakWolf/tge) to make indie games.
+I use [Godot](https://godotengine.org) to make indie games.
