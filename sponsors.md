@@ -8,6 +8,7 @@
 
 - [方舟像素字体](https://github.com/TakWolf/ark-pixel-font)
 - [复古像素字体](https://github.com/TakWolf/retro-pixel-font)
+- [缝合怪像素字体](https://github.com/TakWolf/fusion-pixel-font)
 
 ## 赞助渠道
 
