@@ -4,12 +4,6 @@
 
 赞助时请留下您的称呼，该信息将会被添加到赞助商列表中。
 
-## 目前接受赞助的项目
-
-- [方舟像素字体](https://github.com/TakWolf/ark-pixel-font)
-- [复古像素字体](https://github.com/TakWolf/retro-pixel-font)
-- [缝合怪像素字体](https://github.com/TakWolf/fusion-pixel-font)
-
 ## 赞助渠道
 
 - [收款码](payment-qr-codes.md)
@@ -39,13 +33,14 @@
 
 ### 爱发电
 
-| 赞助商                                               | 爱发电主页                                                       |      金额 | 时间         |
-|---------------------------------------------------|-------------------------------------------------------------|--------:|------------|
-| 存折的粑粑要存钱                                          | [链接](https://afdian.net/u/47970dd2907c11ecbf1952540025c377) |  ￥60.00 | 2022-02-18 |
-| Metwo                                             | [链接](https://afdian.net/u/8d344108dcac11ec984152540025c377) | ￥100.00 | 2022-05-26 |
-| [我是绵羊Yang_g](https://space.bilibili.com/43881503) | [链接](https://afdian.net/a/sheep_realms)                     |   ￥5.00 | 2022-05-26 |
-| [Ling伊_01](https://space.bilibili.com/333720901)  | [链接](https://afdian.net/a/lingyi010101)                     |  ￥10.00 | 2022-06-04 |
-| 彗星蜜月                                              | [链接](https://afdian.net/a/aliene)                           |  ￥10.00 | 2022-07-20 |
-| Metwo                                             | [链接](https://afdian.net/u/04fcc8c6333411ed880c52540025c377) | ￥100.00 | 2022-09-13 |
-| [Doraaron](https://twitter.com/Dorraon1)          | [链接](https://afdian.net/u/687b67ba49f311ed93eb52540025c377) |  ￥30.00 | 2022-10-12 |
-| 肠科夫斯基                                             | [链接](https://afdian.net/a/guttia)                           |  ￥10.00 | 2023-01-23 |
+| 赞助商                                               | 爱发电主页                                                        |      金额 | 时间         |
+|---------------------------------------------------|--------------------------------------------------------------|--------:|------------|
+| 存折的粑粑要存钱                                          | [链接](https://afdian.net/u/47970dd2907c11ecbf1952540025c377)  |  ￥60.00 | 2022-02-18 |
+| Metwo                                             | [链接](https://afdian.net/u/8d344108dcac11ec984152540025c377)  | ￥100.00 | 2022-05-26 |
+| [我是绵羊Yang_g](https://space.bilibili.com/43881503) | [链接](https://afdian.net/a/sheep_realms)                      |   ￥5.00 | 2022-05-26 |
+| [Ling伊_01](https://space.bilibili.com/333720901)  | [链接](https://afdian.net/a/lingyi010101)                      |  ￥10.00 | 2022-06-04 |
+| 彗星蜜月                                              | [链接](https://afdian.net/a/aliene)                            |  ￥10.00 | 2022-07-20 |
+| Metwo                                             | [链接](https://afdian.net/u/04fcc8c6333411ed880c52540025c377)  | ￥100.00 | 2022-09-13 |
+| [Doraaron](https://twitter.com/Dorraon1)          | [链接](https://afdian.net/u/687b67ba49f311ed93eb52540025c377)  |  ￥30.00 | 2022-10-12 |
+| 肠科夫斯基                                             | [链接](https://afdian.net/a/guttia)                            |  ￥10.00 | 2023-01-23 |
+| [John Jwy](https://github.com/jwyjohn)            | [链接](https://afdian.net/u/d0f21d0eacca11edbe9752540025c377 ) |  ￥60.00 | 2023-02-15 |
