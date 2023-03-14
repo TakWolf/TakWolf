@@ -45,3 +45,4 @@
 | 肠科夫斯基                                             | [链接](https://afdian.net/a/guttia)                            |  ￥10.00 | 2023-01-23 |
 | [John Jwy](https://github.com/jwyjohn)            | [链接](https://afdian.net/u/d0f21d0eacca11edbe9752540025c377 ) |  ￥60.00 | 2023-02-15 |
 | [我是绵羊Yang_g](https://space.bilibili.com/43881503) | [链接](https://afdian.net/a/sheep_realms)                      |  ￥10.00 | 2023-02-24 |
+| [InkyDragon](https://github.com/inkydragon)       | [链接](https://afdian.net/a/inkydragon)                        |  ￥60.00 | 2023-03-14 |
