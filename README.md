@@ -29,7 +29,7 @@
 ## 其他
 
 - [Discord 个人频道](https://discord.gg/9HY9WD4TRe)
-- [QQ群-个人的游戏开发测试](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
+- [QQ群：367057366](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
 
 ## 赞助
 
