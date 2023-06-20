@@ -2,34 +2,29 @@
 
 ![Logo](images/pixel_qiu.gif)
 
-社畜程序员一枚。
+目前正在使用 [Godot](https://godotengine.org) 制作独立游戏。
 
-主修 Java、Android 和 Web 开发，也使用 Rust 和 Python。
+也做一些和像素艺术相关的东西。
 
-目前使用 [Godot](https://godotengine.org) 制作独立游戏。
-
-也做一些像素艺术和芯片音乐相关的东西。
-
-## 个人网站
+## 链接
 
 - [主页](https://takwolf.com)
 - [博客](https://blog.takwolf.com)
-
-## 开发者
-
 - [GitHub](https://github.com/TakWolf)
 - [itch.io](https://takwolf.itch.io)
-
-## 社交
-
 - [B站](https://space.bilibili.com/445245)
 - [微博](https://weibo.com/takwolf)
 - [twitter](https://twitter.com/takgdx)
 
-## 其他
+## Discord
 
-- [Discord 个人频道](https://discord.gg/9HY9WD4TRe)
-- [QQ群：367057366](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
+- [个人频道](https://discord.gg/9HY9WD4TRe)
+- [像素字体工房](https://discord.gg/3GKtPKtjdU)
+
+## QQ 群
+
+- [像素字体工房 (302383204)](https://jq.qq.com/?_wv=1027&k=EXtKGHar)
+- [像素游戏工房 (367057366)](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
 
 ## 赞助
 
