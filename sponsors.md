@@ -32,6 +32,7 @@
 | [狸小华](https://github.com/huage2580) | 微信赞赏  |  ￥5.00 | 2022-07-07 |
 | JuJu                                | 微信赞赏  | ￥10.00 | 2023-03-18 |
 | **毅                                 | 支付宝收款 | ￥10.00 | 2023-05-04 |
+| 狸*)                                 | 微信收款  | ￥66.66 | 2023-07-13 |
 
 ### 爱发电
 
@@ -49,3 +50,4 @@
 | [我是绵羊Yang_g](https://space.bilibili.com/43881503) | [链接](https://afdian.net/a/sheep_realms)                      |  ￥10.00 | 2023-02-24 |
 | [InkyDragon](https://github.com/inkydragon)       | [链接](https://afdian.net/a/inkydragon)                        |  ￥60.00 | 2023-03-14 |
 | 熊泽鹏                                               | [链接](https://afdian.net/u/8b324c16de4e11ed96c952540025c377)  | ￥100.00 | 2023-04-19 |
+| 爱发电用户_ghJf                                        | [链接](https://afdian.net/u/8d29fb32207e11eea6075254001e7c00)  |   ￥5.00 | 2023-07-12 |
