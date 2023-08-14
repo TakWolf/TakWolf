@@ -1,6 +1,6 @@
 # 狼人小林 / TakWolf 
 
-![Logo](images/pixel_qiu.gif)
+![Logo](images/pixel-qiu-x4.gif)
 
 目前正在使用 [Godot](https://godotengine.org) 制作独立游戏。
 
@@ -30,8 +30,8 @@
 
 赞助渠道：
 
-- [收款码](payment-qr-codes.md)
-- [爱发电](https://afdian.net/@takwolf)
+[![收款码](images/payqr-badge-x2.png)](payment-qr-codes.md)
+[![爱发电](images/afdian-badge-x2.png)](https://afdian.net/@takwolf)
 
 赞助时请留下您的称呼，该信息将会被添加到赞助商列表中。
 
