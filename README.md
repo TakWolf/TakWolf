@@ -28,13 +28,9 @@
 
 ## 赞助
 
-赞助渠道：
-
-[![收款码](images/payqr-badge-x2.png)](payment-qr-codes.md)
+[![赞赏码](images/payqr-badge-x2.png)](payment-qr-codes.md)
 [![爱发电](images/afdian-badge-x2.png)](https://afdian.net/@takwolf)
 
-赞助时请留下您的称呼，该信息将会被添加到赞助商列表中。
-
-可以通过下面的链接来查看收到的赞助的具体情况：
+请通过下面的链接来查看收到的赞助的具体情况：
 
 [赞助详情](sponsors.md)
