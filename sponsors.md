@@ -6,8 +6,8 @@
 
 ## 赞助渠道
 
-- [收款码](payment-qr-codes.md)
-- [爱发电](https://afdian.net/@takwolf)
+[![赞赏码](images/payqr-badge-x2.png)](payment-qr-codes.md)
+[![爱发电](images/afdian-badge-x2.png)](https://afdian.net/@takwolf)
 
 ## 赞助商名单
 
