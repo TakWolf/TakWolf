@@ -52,3 +52,4 @@
 | [InkyDragon](https://github.com/inkydragon)       | [链接](https://afdian.net/a/inkydragon)                        |  ￥60.00 | 2023-03-14 |
 | 熊泽鹏                                               | [链接](https://afdian.net/u/8b324c16de4e11ed96c952540025c377)  | ￥100.00 | 2023-04-19 |
 | 爱发电用户_ghJf                                        | [链接](https://afdian.net/u/8d29fb32207e11eea6075254001e7c00)  |   ￥5.00 | 2023-07-12 |
+| RespriteApp                                       | [链接](https://afdian.net/a/team_wiki)                         |  ￥10.00 | 2023-09-04 |
