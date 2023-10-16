@@ -13,7 +13,6 @@
 - [GitHub](https://github.com/TakWolf)
 - [itch.io](https://takwolf.itch.io)
 - [B站](https://space.bilibili.com/445245)
-- [微博](https://weibo.com/takwolf)
 - [twitter](https://twitter.com/takgdx)
 
 ## Discord
