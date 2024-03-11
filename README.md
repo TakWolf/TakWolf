@@ -6,6 +6,8 @@
 
 也做一些和像素艺术相关的东西。
 
+一些已经不再维护的项目位于：https://github.com/TakWolf-Deprecated
+
 ## 链接
 
 - [主页](https://takwolf.com)
