@@ -10,16 +10,25 @@
 
 ## 关注我
 
-- [![主页](https://img.shields.io/badge/主页-takwolf.com-FFDE33?style=for-the-badge)](https://takwolf.com)
-- [![博客](https://img.shields.io/badge/博客-blog.takwolf.com-FFDE33?style=for-the-badge)](https://blog.takwolf.com)
-- [![GitHub](https://img.shields.io/badge/TakWolf-545454?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TakWolf)
-- [![Itch.io](https://img.shields.io/badge/狼人小林-FF5050?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
-- [![哔哩哔哩](https://img.shields.io/badge/狼人小林-2EB7FF?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
-- [![Twitter](https://img.shields.io/badge/狼人小林-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/takgdx)
-- [![Discord-个人频道](https://img.shields.io/badge/狼人小林的地盘-4D64FF?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/9HY9WD4TRe)
-- [![Discord-像素字体工房](https://img.shields.io/badge/像素字体工房-4D64FF?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/3GKtPKtjdU)
-- [![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房(302383204)-6AC468?logo=tencentqq&logoColor=white&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=EXtKGHar)
-- [![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房(367057366)-6AC468?logo=tencentqq&logoColor=white&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
+[![主页](https://img.shields.io/badge/主页-takwolf.com-FFDE33?style=for-the-badge)](https://takwolf.com)
+<br>
+[![博客](https://img.shields.io/badge/博客-blog.takwolf.com-FFDE33?style=for-the-badge)](https://blog.takwolf.com)
+<br>
+[![GitHub](https://img.shields.io/badge/TakWolf-545454?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TakWolf)
+<br>
+[![Itch.io](https://img.shields.io/badge/狼人小林-FF5050?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
+<br>
+[![哔哩哔哩](https://img.shields.io/badge/狼人小林-2EB7FF?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
+<br>
+[![Twitter](https://img.shields.io/badge/狼人小林-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/takgdx)
+<br>
+[![Discord-个人频道](https://img.shields.io/badge/狼人小林的地盘-4D64FF?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/9HY9WD4TRe)
+<br>
+[![Discord-像素字体工房](https://img.shields.io/badge/像素字体工房-4D64FF?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/3GKtPKtjdU)
+<br>
+[![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房(302383204)-6AC468?logo=tencentqq&logoColor=white&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=EXtKGHar)
+<br>
+[![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房(367057366)-6AC468?logo=tencentqq&logoColor=white&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=Z5pposJE)
 
 ## 赞助
 
