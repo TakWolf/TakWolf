@@ -59,3 +59,4 @@
 | 爱发电用户_ghJf                                        | [链接](https://afdian.net/u/8d29fb32207e11eea6075254001e7c00)  |   ￥5.00 | 2023-07-12 |
 | [RespriteApp](https://resprite.fengeon.com/)      | [链接](https://afdian.net/a/team_wiki)                         |  ￥10.00 | 2023-09-04 |
 | 爱发电用户_YbBv                                        | [链接](https://afdian.net/u/c2ca5ef2723211ee9a3e5254001e7c00)  |  ￥30.00 | 2023-10-24 |
+| [RespriteApp](https://resprite.fengeon.com/)      | [链接](https://afdian.net/a/team_wiki)                         |  ￥10.00 | 2024-06-06 |
