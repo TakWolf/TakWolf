@@ -5,7 +5,7 @@
 ## 赞助渠道
 
 [![赞赏码](images/badge-payqr@2x.png)](payment-qr-codes.md)
-[![爱发电](images/badge-afdian@2x.png)](https://afdian.com/@takwolf)
+[![爱发电](images/badge-afdian@2x.png)](https://afdian.com/a/takwolf)
 
 以上渠道收到的每一笔赞助都会公开。
 
