@@ -1,6 +1,6 @@
 # 狼人小林 / TakWolf 
 
-![Logo](images/xiaoqiu@4x.gif)
+![Logo](images/rabbit@4x.png)
 
 目前正在使用 [Godot](https://godotengine.org) 制作独立游戏。
 
