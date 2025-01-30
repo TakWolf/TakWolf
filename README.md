@@ -6,6 +6,8 @@
 
 也做一些和像素艺术相关的东西。
 
+也做一些字体开发。
+
 ## 关注我
 
 [![主页](https://img.shields.io/badge/Home-takwolf.com-orange?logo=&logoColor=white&style=for-the-badge)](https://takwolf.com)
