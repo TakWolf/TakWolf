@@ -1,4 +1,4 @@
-# 狼人小林 / TakWolf 
+# 狼人小林 / TakWolf
 
 ![Logo](images/rabbit@4x.png)
 

@@ -1,13 +1,11 @@
 # 赞助详情
 
-这里是狼人小林收到的赞助的详细情况，真心感谢各位朋友的支持！！
+这里是狼人小林收到的赞助的具体情况，感谢各位朋友的支持！
 
 ## 赞助渠道
 
 [![赞赏码](images/badge-payqr@2x.png)](payment-qr-codes.md)
 [![爱发电](images/badge-afdian@2x.png)](https://afdian.com/a/takwolf)
-
-以上渠道收到的每一笔赞助都会公开。
 
 赞助时可留下备注，相关信息会补充到赞助商名单中。
 
