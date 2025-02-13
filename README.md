@@ -26,9 +26,9 @@
 <br>
 [![Discord-像素字体工房](https://img.shields.io/badge/Discord-像素字体工房-4E5AF0?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/3GKtPKtjdU)
 <br>
-[![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房-brightgreen?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/X1mLrLLGYS)
+[![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房-brightgreen?logo=qq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/X1mLrLLGYS)
 <br>
-[![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房-brightgreen?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/JXc4Zie76u)
+[![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房-brightgreen?logo=qq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/JXc4Zie76u)
 
 ## 赞助
 
