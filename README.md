@@ -10,9 +10,9 @@
 
 ## 关注我
 
-[![主页](https://img.shields.io/badge/Home-takwolf.com-orange?logo=&logoColor=white&style=for-the-badge)](https://takwolf.com)
+[![主页](https://img.shields.io/badge/Home-takwolf.com-orange?logo=homepage&logoColor=white&style=for-the-badge)](https://takwolf.com)
 <br>
-[![博客](https://img.shields.io/badge/Blog-blog.takwolf.com-orange?logo=&logoColor=white&style=for-the-badge)](https://blog.takwolf.com)
+[![博客](https://img.shields.io/badge/Blog-blog.takwolf.com-orange?logo=homepage&logoColor=white&style=for-the-badge)](https://blog.takwolf.com)
 <br>
 [![GitHub](https://img.shields.io/badge/GitHub-TakWolf-1F2328?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TakWolf)
 <br>
