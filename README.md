@@ -18,7 +18,7 @@
 <br>
 [![Itch.io](https://img.shields.io/badge/itch.io-takwolf-FF2449?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
 <br>
-[![哔哩哔哩](https://img.shields.io/badge/Bilibili-狼人小林-FF6699?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
+[![哔哩哔哩](https://img.shields.io/badge/bilibili-狼人小林-FF6699?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
 <br>
 [![Twitter](https://img.shields.io/badge/Twitter-takgdx-00ACEE?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/takgdx)
 <br>
