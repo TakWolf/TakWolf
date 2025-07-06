@@ -16,7 +16,7 @@
 <br>
 [![GitHub](https://img.shields.io/badge/GitHub-TakWolf-1F2328?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TakWolf)
 <br>
-[![Itch.io](https://img.shields.io/badge/itch.io-takwolf-FF2449?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-takwolf-FF2449?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
 <br>
 [![哔哩哔哩](https://img.shields.io/badge/bilibili-狼人小林-FF6699?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
 <br>
