@@ -44,6 +44,7 @@
 | *星                                                           | 微信收款  |  ￥20.00 | 2024-11-04 |
 | **煊                                                          | 支付宝收款 |  ￥66.00 | 2025-01-10 |
 | A*n                                                          | 微信收款  |  ￥11.00 | 2025-06-28 |
+| *F (Furau)                                                   | 微信收款  |   ￥5.00 | 2025-07-31 |
 
 ### 爱发电
 
@@ -67,3 +68,4 @@
 | [RespriteApp](https://resprite.fengeon.com/)      | [链接](https://afdian.com/a/team_wiki)                         |  ￥10.00 | 2024-06-06 |
 | [InkyDragon](https://github.com/inkydragon)       | [链接](https://afdian.com/a/inkydragon)                        |   ￥5.00 | 2025-02-08 |
 | 辣椒炒肉章鱼烧                                           | [链接](https://afdian.com/a/takoyakicjrs)                      |  ￥10.00 | 2025-06-24 |
+| 框框                                                | [链接](https://afdian.com/a/xiankuangxk)                       | ￥200.00 | 2025-07-16 |
