@@ -1,17 +1,10 @@
-# 赞助详情
+# 赞助商名单
 
 这里是狼人小林收到的赞助的具体情况，感谢各位朋友的支持！
-
-## 赞助渠道
-
-[![赞赏码](images/badge-payqr@2x.png)](payment-qr-codes.md)
-[![爱发电](images/badge-afdian@2x.png)](https://afdian.com/a/takwolf)
 
 赞助时可留下备注，相关信息会补充到赞助商名单中。
 
 列表是手动更新的，可能有延迟。如果数据存在错误，请随时 [联系我](https://github.com/TakWolf/TakWolf/issues) 更正。
-
-## 赞助商名单
 
 按订单时间排序，排名不分先后。
 
@@ -70,3 +63,4 @@
 | [InkyDragon](https://github.com/inkydragon)       | [链接](https://afdian.com/a/inkydragon)                        |   ￥5.00 | 2025-02-08 |
 | 辣椒炒肉章鱼烧                                           | [链接](https://afdian.com/a/takoyakicjrs)                      |  ￥10.00 | 2025-06-24 |
 | 框框                                                | [链接](https://afdian.com/a/xiankuangxk)                       | ￥200.00 | 2025-07-16 |
+| 爱发电用户_9wHD                                        | [链接](https://afdian.com/u/b97cc9a29c3811f0bc5252540025c377)  |   ￥5.00 | 2025-09-28 |

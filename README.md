@@ -34,3 +34,6 @@
 
 [![赞赏码](images/badge-payqr@2x.png)](payment-qr-codes.md)
 [![爱发电](images/badge-afdian@2x.png)](https://afdian.com/a/takwolf)
+[![PayPal](images/badge-paypal@2x.png)](https://paypal.me/takwolf)
+
+[赞助商名单](sponsors.md)
