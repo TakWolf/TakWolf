@@ -10,25 +10,25 @@
 
 ## 关注我
 
-[![主页](https://img.shields.io/badge/Home-takwolf.com-orange?logo=homepage&logoColor=white&style=for-the-badge)](https://takwolf.com)
+[![主页](https://img.shields.io/badge/Home-takwolf.com-orange?style=for-the-badge&logo=homepage&logoColor=white)](https://takwolf.com)
 <br>
-[![博客](https://img.shields.io/badge/Blog-blog.takwolf.com-orange?logo=homepage&logoColor=white&style=for-the-badge)](https://blog.takwolf.com)
+[![博客](https://img.shields.io/badge/Blog-blog.takwolf.com-orange?style=for-the-badge&logo=homepage&logoColor=white)](https://blog.takwolf.com)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-TakWolf-1F2328?logo=github&logoColor=white&style=for-the-badge)](https://github.com/TakWolf)
+[![GitHub](https://img.shields.io/badge/GitHub-TakWolf-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TakWolf)
 <br>
-[![itch.io](https://img.shields.io/badge/itch.io-takwolf-FF2449?logo=itch.io&logoColor=white&style=for-the-badge)](https://takwolf.itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-takwolf-FF2449?style=for-the-badge&logo=itch.io&logoColor=white)](https://takwolf.itch.io)
 <br>
-[![哔哩哔哩](https://img.shields.io/badge/bilibili-狼人小林-FF6699?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/445245)
+[![哔哩哔哩](https://img.shields.io/badge/bilibili-狼人小林-FF6699?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/445245)
 <br>
-[![Twitter](https://img.shields.io/badge/Twitter-takgdx-00ACEE?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/takgdx)
+[![Twitter](https://img.shields.io/badge/Twitter-takgdx-00ACEE?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/takgdx)
 <br>
-[![Discord-个人频道](https://img.shields.io/badge/Discord-狼人小林的地盘-4E5AF0?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/9HY9WD4TRe)
+[![Discord-个人频道](https://img.shields.io/badge/Discord-狼人小林的地盘-4E5AF0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9HY9WD4TRe)
 <br>
-[![Discord-像素字体工房](https://img.shields.io/badge/Discord-像素字体工房-4E5AF0?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/3GKtPKtjdU)
+[![Discord-像素字体工房](https://img.shields.io/badge/Discord-像素字体工房-4E5AF0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3GKtPKtjdU)
 <br>
-[![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房-brightgreen?logo=qq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/jPk8sSitUI)
+[![QQ群-像素字体工房](https://img.shields.io/badge/QQ群-像素字体工房-brightgreen?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/jPk8sSitUI)
 <br>
-[![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房-brightgreen?logo=qq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/axD6RJgbw4)
+[![QQ群-像素游戏工房](https://img.shields.io/badge/QQ群-像素游戏工房-brightgreen?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/axD6RJgbw4)
 
 ## 赞助
 
