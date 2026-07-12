@@ -77,3 +77,4 @@
 | 辣椒炒肉章鱼烧                                           | [链接](https://afdian.com/a/takoyakicjrs)                      |  ¥ 10.00 CNY | 2025-06-24 |
 | 框框                                                | [链接](https://afdian.com/a/xiankuangxk)                       | ¥ 200.00 CNY | 2025-07-16 |
 | 爱发电用户_9wHD                                        | [链接](https://afdian.com/u/b97cc9a29c3811f0bc5252540025c377)  |   ¥ 5.00 CNY | 2025-09-28 |
+| wujinno2                                          | [链接](https://afdian.com/u/be5d5a328a0811eb9b9052540025c377)  |  ¥ 10.00 CNY | 2026-07-12 |
